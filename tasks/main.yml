@@ -1,0 +1,4 @@
+- name: Install tensorflow (python 3)
+  pip: 
+    name: tensorflow
+    executable: pip3
